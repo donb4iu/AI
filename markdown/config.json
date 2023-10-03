@@ -1,0 +1,10 @@
+{
+  "title": "AI Musings",
+  "tagline": "AI musings",
+  "image": "img.png",
+  "html": {
+    "auto_toc": true,
+    "search": true
+  },
+  "author": "Don Buddenbaum"
+}
